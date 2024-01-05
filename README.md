@@ -1,16 +1,33 @@
-### Hi there 👋
+# Merhaba, Ben Anılcan Barsan! 👋
 
-<!--
-**Anilcanbrsn/Anilcanbrsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Merhaba! Ben Anılcan Barsan, 20 yaşındayım ve Osmaniye Korkut Ata Üniversitesi'nde okuyorum. Front-end geliştiricisiyim ve web teknolojileri konusunda tutkulu biriyim.
 
-Here are some ideas to get you started:
+## 🚀 Yeteneklerim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-end Geliştirme:** HTML, CSS, JavaScript, React.js gibi teknolojilere hakimim.
+- **UI/UX Tasarımı:** Kullanıcı deneyimi ve arayüz tasarımı konusunda bilgi sahibiyim.
+- **Responsive Web Tasarımı:** Mobil uyumlu ve duyarlı web tasarımları oluşturabilirim.
+- **Version Kontrol:** Git ve GitHub gibi araçları etkili bir şekilde kullanabilirim.
+
+## 📚 Eğitim
+
+- **Okul:** Osmaniye Korkut Ata Üniversitesi
+- **Bölüm:** [Bilgisayar Teknolojileri]
+
+## 📫 İletişim
+
+- LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/anilcanbarsan/)
+- Twitter: [@anilcanbarsan](https://twitter.com/anilcanbarsan)
+
+## 🌱 Hedeflerim
+
+- Yeni teknolojilere ve trendlere açık olmak.
+- Proje tabanlı öğrenmeye devam etmek.
+- Topluluk etkileşimini artırmak ve açık kaynak projelere katkıda bulunmak.
+
+## 🤝 İşbirliği
+
+- Açık kaynak projelerde işbirliği yapmaktan mutluluk duyarım.
+- Front-end geliştirme konusunda yardıma ihtiyacınız varsa bana ulaşabilirsiniz.
+
+---
