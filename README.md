@@ -4,11 +4,8 @@ Merhaba! Ben Anılcan Barsan, 20 yaşındayım ve Osmaniye Korkut Ata Üniversit
 
 ## 🚀 Yeteneklerim
 
-- **Front-end Geliştirme:** HTML, CSS, JavaScript, React.js gibi teknolojilere hakimim.
-- **UI/UX Tasarımı:** Kullanıcı deneyimi ve arayüz tasarımı konusunda bilgi sahibiyim.
+- **Front-end Geliştirme:** HTML, CSS, JavaScript, gibi teknolojilerle web arayüzleri tasarlıyorum.
 - **Responsive Web Tasarımı:** Mobil uyumlu ve duyarlı web tasarımları oluşturabilirim.
-- **Version Kontrol:** Git ve GitHub gibi araçları etkili bir şekilde kullanabilirim.
-
 ## 📚 Eğitim
 
 - **Okul:** Osmaniye Korkut Ata Üniversitesi
